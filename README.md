@@ -71,6 +71,15 @@ each task on the screen in an easy-to-read format.
 only display the tasks that have been assigned to the current user
 in an easy-to-read format.
 
+# In task_management_file2 
+
+○ Only the user with the username ‘admin’ is allowed to register
+users.
+○ The admin user is provided with a new menu option that allows
+them to display statistics. When this menu option is selected, the
+total number of tasks and the total number of users should be
+displayed in a user-friendly manner.
+
 
 
 
