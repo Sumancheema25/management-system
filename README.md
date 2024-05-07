@@ -1,5 +1,6 @@
 # management-system
 creating a program for a small business to help it manage tasks assigned to each member of the team. This program will work with two text files, user.txt and tasks.txt. 
+
 In tasks.txt store a list of all the tasks the team is working on. Open
 this file and review the contents. Note that this text file already
 contains data about two tasks. The data for each task is stored on a
@@ -7,10 +8,15 @@ separate line in the text file. Each line includes the following data
 about a task in this order:
 
 ■ The username of the person to whom the task is assigned.
+
 ■ The title of the task.
+
 ■ A description of the task.
+
 ■ The date that the task was assigned to the user.
+
 ■ The due date for the task.
+
 ■ Either a ‘Yes’ or ‘No’ value that specifies if the task has been
 completed.
 
@@ -23,8 +29,10 @@ to this file in the following format:
 
 ■ The username followed by a comma, a space, and then the
 password
+
 ■ Only record one username and corresponding password per
 line.
+
 program should allow users to do the following:
 
 ○ Login. Prompt the user to enter a username and password. A list of
