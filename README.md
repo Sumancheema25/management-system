@@ -75,6 +75,7 @@ in an easy-to-read format.
 
 ○ Only the user with the username ‘admin’ is allowed to register
 users.
+
 ○ The admin user is provided with a new menu option that allows
 them to display statistics. When this menu option is selected, the
 total number of tasks and the total number of users should be
